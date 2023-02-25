@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+h1
+{
+    color: cyan;
+}
+h3
+{
+    color: aliceblue;
+}
+h4
+{
+    color: cyan
+}
+h5
+{
+    color: lime;
+    font-size: medium;
+}
+h6
+{
+    color: aliceblue;
+    font-size: medium;
+}
+h7
+{
+    padding-bottom: 10px;
+    color: lime;
+    font-size: medium;
+}
+h8
+{
+    border-top: 10px;
+    color: aliceblue;
+    font-size: medium;
+    padding-top: -20px;
+}
